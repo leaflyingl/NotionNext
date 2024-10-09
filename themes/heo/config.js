@@ -26,7 +26,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: 'GoldenBuds, landing',
   HEO_HERO_TITLE_LINK: 'https://www.goldenbuds.online',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: className=text-4xl text-white font-extrabold 'Random Recommendations',
+  HEO_HERO_COVER_TITLE: 'Random Recommendations',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'LED Grow Lights', url: '/tag/LED GROW LIGHTS' },
