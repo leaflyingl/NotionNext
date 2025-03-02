@@ -95,6 +95,7 @@ const GlobalHead = props => {
 
   return (
     <Head>
+      <link rel="canonical" href="https://www.goldenbuds.online/" />
       <link rel='icon' href={favicon} />
       <title>{title}</title>
       <meta name='theme-color' content={BACKGROUND_DARK} />
