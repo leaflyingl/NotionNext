@@ -43,6 +43,12 @@ const GlobalHead = props => {
     NOTION_CONFIG
   )
 
+   const SEO_YANDEX_SITE_VERIFICATION = siteConfig(
+    'SEO_YANDEX_SITE_VERIFICATION',
+    null,
+    NOTION_CONFIG
+  )
+
   const BLOG_FAVICON = siteConfig('BLOG_FAVICON', null, NOTION_CONFIG)
 
   const COMMENT_WEBMENTION_ENABLE = siteConfig(
@@ -117,10 +123,12 @@ const GlobalHead = props => {
           content={SEO_BAIDU_SITE_VERIFICATION}
         />
       )}
-      {SEO_BAIDU_SITE_VERIFICATION && (
+      {SEO_YANDEX_SITE_VERIFICATION && (
         <meta
           name='yandex-site-verification'
-          content={1705ba7c6061fc61}         />       )}
+          content={1705ba7c6061fc61}
+        />
+      )}
 
       <meta name="yandex-verification" content="1705ba7c6061fc61" />
             
