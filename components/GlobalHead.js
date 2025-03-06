@@ -105,6 +105,7 @@ const GlobalHead = props => {
       <link rel='icon' href={favicon} />
       <title>{title}</title>
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
+      <meta name="yandex-verification" content="1705ba7c6061fc61" />
       <meta name='theme-color' content={BACKGROUND_DARK} />
       <meta
         name='viewport'
