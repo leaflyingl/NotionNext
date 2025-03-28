@@ -103,7 +103,7 @@ const GlobalHead = props => {
     <Head>
       <link rel="canonical" href="https://www.goldenbuds.online/" />
       <link rel='icon' href={favicon} />
-      <title>{title}</title>
+      <title>'GoldenBuds'</title>
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
       <meta name="yandex-verification" content="1705ba7c6061fc61" />
       <meta name='theme-color' content={BACKGROUND_DARK} />
@@ -111,7 +111,7 @@ const GlobalHead = props => {
         name='viewport'
         content='width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0'
       />
-      <meta name='robots' content='follow, index' />
+      <meta name='robots' content='follow, index' />    
       <meta charSet='UTF-8' />
       {SEO_GOOGLE_SITE_VERIFICATION && (
         <meta
@@ -134,8 +134,8 @@ const GlobalHead = props => {
 
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
             
-      <meta name='keywords' content={keywords} />
-      <meta name='description' content={description} />
+      <meta name='keywords' content='LED grow lights, electronics, hydroponics, indoor farming, vertical farming, enviroment controlled agriculture, mobile parts, mobile power bank' />    
+      <meta name='description' content= 'Goldenbuds is a professional and experienced manufacturer of LED grow lights and electronics. 'description} />
       <meta property='og:locale' content={lang} />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={description} />
