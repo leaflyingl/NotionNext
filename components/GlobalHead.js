@@ -103,7 +103,7 @@ const GlobalHead = props => {
     <Head>
       <link rel="canonical" href="https://www.goldenbuds.online/" />
       <link rel='icon' href={favicon} />
-      <title>'GoldenBuds'</title>
+      <title> GoldenBuds, your tailored LED grow lights and electronics manufacturer</title>        
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
       <meta name="yandex-verification" content="1705ba7c6061fc61" />
       <meta name='theme-color' content={BACKGROUND_DARK} />
@@ -128,14 +128,14 @@ const GlobalHead = props => {
       {SEO_YANDEX_SITE_VERIFICATION && (
         <meta
           name='yandex-site-verification'
-          content='1705ba7c6061fc61'
+          content=''
         />
       )}
 
-      <meta name='yandex-verification' content='1705ba7c6061fc61' />
+      <meta name='yandex-verification' content='' />
             
-      <meta name='keywords' content='LED grow lights, electronics, hydroponics, indoor farming, vertical farming, enviroment controlled agriculture, mobile parts, mobile power bank' />    
-      <meta name='description' content= 'Goldenbuds is a professional and experienced manufacturer of LED grow lights and electronics. '/>
+      <meta name='keywords' content='LED grow lights, electronics, hydroponics, indoor farming, vertical farming, enviroment controlled agriculture, mobile parts, mobile power bank, dimmable full spectrum LED grow light, remote control grow light panel, bone conduction earubuds, earphones, fast chargers' />    
+      <meta name='description' content= 'GoldenBuds is a professional and experienced manufacturer of LED grow lights and electronics. We offer sourcing and procurement services as well based on our clients’ request. '/>
       <meta property='og:locale' content={lang} />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={description} />
