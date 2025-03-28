@@ -135,7 +135,7 @@ const GlobalHead = props => {
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
             
       <meta name='keywords' content='LED grow lights, electronics, hydroponics, indoor farming, vertical farming, enviroment controlled agriculture, mobile parts, mobile power bank' />    
-      <meta name='description' content= 'Goldenbuds is a professional and experienced manufacturer of LED grow lights and electronics. 'description} />
+      <meta name='description' content= 'Goldenbuds is a professional and experienced manufacturer of LED grow lights and electronics. '/>
       <meta property='og:locale' content={lang} />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={description} />
