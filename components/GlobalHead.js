@@ -106,7 +106,7 @@ const GlobalHead = props => {
       <title> GoldenBuds, your tailored LED grow lights and electronics manufacturer.</title>        
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
       <meta name="yandex-verification" content="1705ba7c6061fc61" />
-      <meta name='google-adsense-account' content='ca-pub-5015431604105277'>
+      <meta name='google-adsense-account' content='ca-pub-5015431604105277' />
       <meta name='theme-color' content={BACKGROUND_DARK} />
       <meta
         name='viewport'
