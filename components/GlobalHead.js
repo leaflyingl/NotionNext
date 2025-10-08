@@ -101,7 +101,6 @@ const GlobalHead = props => {
 
   return (
     <Head>
-      <link rel="canonical" href="https://www.goldenbuds.online/" />
       <link rel='icon' href={favicon} />
       <title> GoldenBuds, your tailored LED grow lights and electronics manufacturer.</title>        
       <meta name='yandex-verification' content='1705ba7c6061fc61' />
