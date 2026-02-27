@@ -19,14 +19,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: 'Share Knowledge',
+  HEO_HERO_TITLE_2: 'and Create Value',
+  HEO_HERO_TITLE_3: 'GOLDENBUDS.ONLINE',
+  HEO_HERO_TITLE_4: 'New Edtion',
+  HEO_HERO_TITLE_5: 'GoldenBuds, landing',
+  HEO_HERO_TITLE_LINK: 'https://www.goldenbuds.online',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: 'Recommendations',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'LED Grow Lights', url: '/tag/LED GROW LIGHTS' },
