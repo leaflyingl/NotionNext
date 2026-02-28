@@ -131,12 +131,7 @@ const SEO = props => {
           content={SEO_BAIDU_SITE_VERIFICATION}
         />
       )}
-      {SEO_YANDEX_SITE_VERIFICATION && (
-        <meta
-          name='yandex-verification'
-          content='3441f378935bb6cd'
-        />
-      )}
+      
       {/* 基础SEO元数据 */}
       <meta name='keywords' content={keywords} />
       <meta name='description' content={description} />
