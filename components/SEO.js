@@ -103,7 +103,7 @@ const SEO = props => {
       <link rel='icon' href={favicon} />
       <title>{title}</title>
       <meta name='yandex-verification' content='3441f378935bb6cd' />
-      <meta name="yandex-verification" content="1705ba7c6061fc61" />
+      <meta name="yandex-verification" content="3441f378935bb6cd" />
       <meta name='google-adsense-account' content='' />
       <meta name='theme-color' content={BACKGROUND_DARK} />
       <meta
