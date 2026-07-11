@@ -9,7 +9,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: 'Welcome to GoldenBuds! Grow with GoldenBuds, and grow like golden buds!', url: 'https://www.goldenbuds.online' },
-    { title: '以品质求生存，以服务谋发展，为客户创价值', url: 'https://www.goldenbuds.online/about' }
+    { title: '以品质求生存，以服务谋发展，为客户创价值', url: 'https://www.goldenbuds.online/about' },
+    { title: 'Lay our survival and development based on qulified products and heartful service, targeting a win-win outcome by creating value for our clients.', url: 'https://www.goldenbuds.online/about' }
   ],
 
   // 英雄区左右侧组件颠倒位置
