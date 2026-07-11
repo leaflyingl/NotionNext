@@ -134,6 +134,7 @@ const SEO = props => {
       <meta name='apple-mobile-web-app-title' content={title} />
 
       {/* 搜索引擎验证 */}
+      <meta name='yandex-verification' content='3441f378935bb6cd' />
       {SEO_GOOGLE_SITE_VERIFICATION && (
         <meta
           name='google-site-verification'
